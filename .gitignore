@@ -1,0 +1,13 @@
+# Kuku input pack is confidential - never commit it
+input/
+*.zip
+__pycache__/
+.cache/
+.env
+inbox/
+promo_runs/
+input2/
+.ui_uploads/
+.ui_plans/
+outputs/ui_runs/
+docs/ui_screenshot.png

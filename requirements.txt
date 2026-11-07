@@ -1,0 +1,5 @@
+requests>=2.28
+streamlit>=1.40     # web UI (app.py)
+pandas>=2.0
+altair>=5.0
+redis>=5.0          # optional: only needed when PROMO_CACHE_URL=redis://...

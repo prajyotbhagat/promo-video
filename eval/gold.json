@@ -1,0 +1,110 @@
+{
+ "_note": "Hand-labelled promo moments, one or two per episode, picked by reading the scripts. Drafted with AI assistance and checked by hand; an editor should replace or extend these. A moment counts as found if a promo in that episode covers at least 50% of it (or the moment covers 50% of the promo). 'dev' moments were labelled first and used while building; 'heldout' moments were labelled later, before looking at any engine's picks for those episodes, and were never used for tuning.",
+ "moments": [
+  {
+   "ep": 1,
+   "start": "00:11.30",
+   "end": "00:41.20",
+   "what": "'You should turn around' -> 'Because he is marrying me' (altar betrayal)",
+   "split": "dev"
+  },
+  {
+   "ep": 3,
+   "start": "01:09.90",
+   "end": "02:20.00",
+   "what": "Stranger stops the guards -> kneels: 'accept my hand'",
+   "split": "dev"
+  },
+  {
+   "ep": 12,
+   "start": "00:42.20",
+   "end": "01:08.50",
+   "what": "'I want to see you crawl' -> 'your husband hangs from the gallows'",
+   "split": "dev"
+  },
+  {
+   "ep": 13,
+   "start": "00:37.00",
+   "end": "01:30.00",
+   "what": "Juliana crawls into the thorns under taunts",
+   "split": "dev"
+  },
+  {
+   "ep": 24,
+   "start": "00:22.50",
+   "end": "00:45.00",
+   "what": "'Then let her suffer' -> riding-crop strike -> 'not a woman whose opinion matters'",
+   "split": "dev"
+  },
+  {
+   "ep": 27,
+   "start": "00:00.00",
+   "end": "00:48.80",
+   "what": "Duchess recognises the ring: 'My lost son wore that ring!' -> doors burst open",
+   "split": "dev"
+  },
+  {
+   "ep": 27,
+   "start": "01:48.30",
+   "end": "02:26.00",
+   "what": "'It is an antidote' -> twisted into a poisoning confession -> 'Take her.'",
+   "split": "dev"
+  },
+  {
+   "ep": 41,
+   "start": "00:41.00",
+   "end": "01:30.00",
+   "what": "Chained Juliana paraded at the wedding -> cathedral entrance explodes",
+   "split": "dev"
+  },
+  {
+   "ep": 45,
+   "start": "01:08.80",
+   "end": "01:52.00",
+   "what": "'Wife?!' -> declared Duchess -> 'You are not his lawful wife'",
+   "split": "dev"
+  },
+  {
+   "ep": 11,
+   "start": "01:05.50",
+   "end": "01:46.50",
+   "what": "Search becomes a frame-up -> watch found in his coat: 'There it is. Ha!'",
+   "split": "heldout"
+  },
+  {
+   "ep": 18,
+   "start": "00:50.00",
+   "end": "01:30.00",
+   "what": "'The ledger!' - she runs back into the burning cottage",
+   "split": "heldout"
+  },
+  {
+   "ep": 31,
+   "start": "01:58.40",
+   "end": "02:35.00",
+   "what": "'Give it back!' -> 'One flame, and your mother's life's work becomes ash'",
+   "split": "heldout"
+  },
+  {
+   "ep": 36,
+   "start": "02:12.00",
+   "end": "03:20.75",
+   "what": "'They condemned her' -> 'their dead Duke is coming home'",
+   "split": "heldout"
+  },
+  {
+   "ep": 44,
+   "start": "00:25.20",
+   "end": "01:10.50",
+   "what": "Catherine begs the Duke -> rejected -> 'Her?!'",
+   "split": "heldout"
+  },
+  {
+   "ep": 47,
+   "start": "01:22.00",
+   "end": "02:10.00",
+   "what": "'As a scullery maid' - the villain made to scrub floors",
+   "split": "heldout"
+  }
+ ]
+}
